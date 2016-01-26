@@ -1,9 +1,14 @@
-### Codeeval String Permutations
+## Codeeval String Permutations
 
 https://www.codeeval.com/public_sc/14
 
-### Solution
+## Solution
+```
 node solution.js sample-data.txt
+```
+
+## Testing
+Require mocha ```npm install -g mocha```
 
 ### Unit Test
 ```
