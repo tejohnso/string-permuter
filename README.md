@@ -20,3 +20,7 @@ mocha test/unit
 mocha test/int
 ```
 
+### E2E Test
+```
+mocha test/e2e/e2e.js
+```

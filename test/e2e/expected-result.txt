@@ -1,0 +1,6 @@
+aht,ath,hat,hta,tah,tha
+abc,acb,bac,bca,cab,cba
+6Zu,6uZ,Z6u,Zu6,u6Z,uZ6
+aab,aba,baa
+19Kfj,19Kjf,19fKj,19fjK,19jKf,19jfK,1K9fj,1K9jf,1Kf9j,1Kfj9,1Kj9f,1Kjf9,1f9Kj,1f9jK,1fK9j,1fKj9,1fj9K,1fjK9,1j9Kf,1j9fK,1jK9f,1jKf9,1jf9K,1jfK9,91Kfj,91Kjf,91fKj,91fjK,91jKf,91jfK,9K1fj,9K1jf,9Kf1j,9Kfj1,9Kj1f,9Kjf1,9f1Kj,9f1jK,9fK1j,9fKj1,9fj1K,9fjK1,9j1Kf,9j1fK,9jK1f,9jKf1,9jf1K,9jfK1,K19fj,K19jf,K1f9j,K1fj9,K1j9f,K1jf9,K91fj,K91jf,K9f1j,K9fj1,K9j1f,K9jf1,Kf19j,Kf1j9,Kf91j,Kf9j1,Kfj19,Kfj91,Kj19f,Kj1f9,Kj91f,Kj9f1,Kjf19,Kjf91,f19Kj,f19jK,f1K9j,f1Kj9,f1j9K,f1jK9,f91Kj,f91jK,f9K1j,f9Kj1,f9j1K,f9jK1,fK19j,fK1j9,fK91j,fK9j1,fKj19,fKj91,fj19K,fj1K9,fj91K,fj9K1,fjK19,fjK91,j19Kf,j19fK,j1K9f,j1Kf9,j1f9K,j1fK9,j91Kf,j91fK,j9K1f,j9Kf1,j9f1K,j9fK1,jK19f,jK1f9,jK91f,jK9f1,jKf19,jKf91,jf19K,jf1K9,jf91K,jf9K1,jfK19,jfK91
+
